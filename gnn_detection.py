@@ -6,9 +6,9 @@ import numpy as np
 
 # Example detected objects: [x_min, y_min, x_max, y_max, class_id]
 detected_objects = np.array([
-    [10, 20, 50, 70, 0],  # Object 1 (e.g., a car)
-    [30, 40, 60, 80, 1],  # Object 2 (e.g., a dog)
-    [55, 60, 90, 100, 0], # Object 3 (e.g., a cat)
+    [10, 20, 50, 70, 0],  # Object 1 ( a car)
+    [30, 40, 60, 80, 1],  # Object 2 (a dog)
+    [55, 60, 90, 100, 0], # Object 3 (a cat)
 ])
 
 # Function to create edges based on spatial proximity
