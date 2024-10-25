@@ -29,6 +29,6 @@ pip install torch torchvision torch-geometric
 
 * Run the Code: Save the script as gnn_detection.py and execute it
 
-  ```bash
-python gnn_object_detection.py
+ ```bash
+python gnn_detection.py
 ```
